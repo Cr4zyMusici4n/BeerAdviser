@@ -22,7 +22,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="16dp"
-        android:text="@string/find_beer" />
+        android:backgroundTint="#00cccc"
+        android:text="@string/find_beer"
+        android:textColor="#000" />
 
     <TextView
         android:id="@+id/brands"
